@@ -1,0 +1,26 @@
+Application Train Variables to Include
+
+TO TRAIN ON:
+Education
+- NAME_EDUCATION_TYPE
+Family/Friends
+- CNT_FAM_MEMBERS
+- DEF_30_CNT_SOCIAL_CIRCLE
+Location
+- REGION_RATING_CLIENT_W_CITY
+Assets/Home
+- FLAG_OWN_CAR
+- FLAG_OWN_REALTY
+Income/Job
+- AMT_INCOME_TOTAL
+- NAME_INCOME_TYPE
+Loan Info
+- AMT_CREDIT
+
+FAIRNESS (DO NOT TRAIN ON THIS):
+Demographic (For fairness, not to train)
+- Gender - CODE_GENDER
+- Age - DAYS_BIRTH
+
+
+
